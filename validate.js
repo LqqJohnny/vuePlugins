@@ -1,4 +1,3 @@
-
 var validate = {
     types : ["phone","email","name","number",'password'],
     regs  : [   /^1[3,5,7,8]\d{9}$/,
